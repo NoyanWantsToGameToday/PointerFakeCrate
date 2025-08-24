@@ -1,0 +1,21 @@
+{
+    "id": 110,
+    "name": "Hell's Dance",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://www.youtube.com/watch?v=AbhXCsMmT0s",
+    "percentToQualify": "10",
+    "song": "Gangsta's Paradise X Sakupen Circles",
+    "songLink": "https://www.youtube.com/watch?v=ah1szLgzhSg",
+    "difficulty": 2,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Exence",
+            "link": "https://www.youtube.com/watch?v=R_X3PvtnAfU",
+            "percent": 40,
+            "hz": 60,
+            "mobile": false
+        }
+    ]
+}

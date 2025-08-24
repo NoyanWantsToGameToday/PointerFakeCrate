@@ -73,67 +73,67 @@ export function score(rank, difficulty, percent, minPercent, list) {
             case 1: // If the value of difficulty is 1, do the following:
 
                 /* Easy Tier */
-                minScore = 20;
-                maxScore = 30;
+                minScore = 1;
+                maxScore = 10;
                 break;
             case 2: // etc.
 
                 /* Medium Tier */
-                minScore = 40;
-                maxScore = 50;
+                minScore = 11;
+                maxScore = 20;
                 break;
             case 3:
 
                 /* Hard Tier */
-                minScore = 60;
-                maxScore = 70;
+                minScore = 21;
+                maxScore = 40;
                 break;
             case 4:
 
                 /* Insane Tier */
-                minScore = 80;
-                maxScore = 90;
+                minScore = 41;
+                maxScore = 60;
                 break;
             case 5:
 
                 /* Mythical Tier */
-                minScore = 100;
-                maxScore = 110;
+                minScore = 61;
+                maxScore = 100;
                 break;
             case 6:
 
                 /* Extreme Tier */
-                minScore = 120;
-                maxScore = 130;
+                minScore = 101;
+                maxScore = 150;
                 break;
             case 7:
 
                 /* Supreme Tier */
-                minScore = 140;
-                maxScore = 150;
+                minScore = 151;
+                maxScore = 250;
                 break;
             case 8:
 
                 /* Etherial Tier */
-                minScore = 160;
-                maxScore = 170;
+                minScore = 251;
+                maxScore = 500;
                 break;
             case 9:
 
                 /* Legendary Tier */
-                minScore = 180;
-                maxScore = 190;
+                minScore = 501;
+                maxScore = 1000;
                 break;
             case 10:
 
                 /* Silent Tier */
-                minScore = 200;
-                maxScore = 210;
+                minScore = 1001;
+                maxScore = 5000;
                 break;
             case 11:
                 
                 /* Impossible Tier */
-                minScore = 220;
+                minScore = 5001;
                 maxScore = scoreDivider;
                 break;
             default: // If none of the other cases are met, resort to this:

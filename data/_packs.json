@@ -1,89 +1,9 @@
 [
 	{
-		"name": "Former Top 1's",
-		"difficulty": 9,
+		"name": "E",
+		"difficulty": 0,
 		"levels": [
-            "Archon",
-			"SakupenPringles",
-			"StereoMADness",
-			"BladLast"
 		]
-	},
-    {
-        "name": "Pointercrate Knock-Offs",
-        "difficulty": 11,
-        "levels": [
-            "EternalEclipse",
-	        "OnlyBeginning",
-            "VeinsOfRuin",
-            "Archon",
-            "StereoMADness",
-            "Bloodworks",
-            "Emptiness",
-            "Cosmos",
-            "Dimension",
-            "SilentStep",
-            "YesJokes",
-            "BladLast"
-        ]
-    },
-    {
-        "name": "Exence Pack",
-        "difficulty": 3,
-        "levels": [
-            "Brupple2",
-            "MiniMadness"
-        ]
-    },
-    {
-        "name": "Short Levels",
-        "difficulty": 8,
-        "levels": [
-            "OnlyBeginning",
-            "MWspam",
-            "NoyanCircles",
-            "Brupple",
-            "OrdinaryMatter",
-            "MiniMadness",
-            "Catastroveil",
-            "HELLSDANCE",
-            "Brupple2",
-            "Endingver"
-        ]
-    },
-    {
-        "name": "Wave Only",
-        "difficulty": 5,
-        "levels": [
-            "HELLSDANCE",
-            "Endingver",
-            "MWspam",
-            "MiniMadness"
-        ]
-    },
-    {
-        "name": "Legacy List",
-        "difficulty": 6,
-        "levels": [
-            "BladLast",
-            "StereoMADness",
-            "Brupple",
-            "HELLSDANCE"
-        ]
-    },
-    {
-        "name": "Levels That Took Long To Verify",
-        "difficulty": 10,
-        "levels": [
-            "BladLast",
-            "Bloodworks",
-            "Cosmos",
-            "Dimension",
-            "VeinsOfRuin",
-            "SakupenPringles",
-            "HELLSDANCE",
-            "StereoMADness"
-        ]
-    }
+	}
 ]
 

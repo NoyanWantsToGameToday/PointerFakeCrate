@@ -14,7 +14,7 @@ import Level from "../components/List/Level.js";
 import Errors from "../components/Sidebar/Errors.js";
 
 export default {
-    components: { Spinner, LevelAuthors, Copy, Copied, TemplateDisclaimer, PacksInfo, PackDifficulty, CookiesDisclaimer, Level, Errors },
+    components: { Spinner, LevelAuthors, Copy, Copied, TemplateDisclaimer, PacksInfo, CookiesDisclaimer, Level, Errors },
     template: `
         <main v-if="loading">
             <Spinner></Spinner>
